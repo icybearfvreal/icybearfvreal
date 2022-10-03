@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **django and pygame.**
 
-- 👯 I’m looking to collaborate on **on upcoming projects**
+- 👯 I’m looking to collaborate on **on upcoming projects. **
 
 - 🤝 I’m looking for help with **projects to contribute to the community.**
 

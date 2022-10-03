@@ -9,7 +9,7 @@
 <li>
  🤔 I’m looking for help with upcoming projects.
 <li>
- 📫 How to reach me: <a>arcader4g@gmail.com</a>, whatsapp +233547601618
+ 📫 How to reach me: <a>arcader4g@gmail.com</a> , whatsapp +233547601618
 <li>
  ⚡ Fun fact: I don't know I guess...I am fun!
 </li>

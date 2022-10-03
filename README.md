@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Selasi</h1>
 <h3 align="center">A passionate frontend developer from Ghana still learning</h3>
-<img align="right" width="400" src="![cat-laptop](https://user-images.githubusercontent.com/110040901/193654165-027e4fad-6621-431a-9284-9f266ec3d8d9.gif)" >
+<div><img src="![cat-laptop](https://user-images.githubusercontent.com/110040901/193655075-5e638d5f-9b25-4605-8889-5800de259096.gif)
+"></div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=icybearfvreal" alt="icybearfvreal" /></a> </p>
 
